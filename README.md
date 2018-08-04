@@ -1,1 +1,1 @@
-# spring-core-spring-mvc-aws
+# spring-core-devops-aws
